@@ -1,0 +1,28 @@
+                             ${AnsiColor.MAGENTA}_
+                          ."' `..._
+                         '         `.
+                       .'      ___..'
+                 _   ."       '   .__,-.,"", ,----.
+      ,.-""''-.." :  :        `--'        ' :      :
+    .'            :_,'                    `._`"--. ;
+    :              ${AnsiColor.BLACK}_,.--'"'""`--._${AnsiColor.MAGENTA}           `.  `"
+   j             ${AnsiColor.BLACK},'               `-.${AnsiColor.MAGENTA}      ,._.'  ,"".
+   :          ${AnsiColor.BLACK} ,'                   ${AnsiColor.WHITE},-.${AnsiColor.MAGENTA}   .   __  `..'
+   `--.    ${AnsiColor.WHITE}.'.${AnsiColor.BLACK}'                   ${AnsiColor.WHITE},'   `.${AnsiColor.MAGENTA} :_,"  `.
+ ,.   ;   ${AnsiColor.WHITE}.   \                 ,'      |${AnsiColor.MAGENTA}         `.
+' :  :    ${AnsiColor.WHITE}|    `.             ,'        |${AnsiColor.BLACK}\${AnsiColor.MAGENTA}         `.  _
+ `.   ._  ${AnsiColor.WHITE}|      \         _.'          |${AnsiColor.BLACK} .${AnsiColor.MAGENTA}      ___ `" :
+        : ${AnsiColor.WHITE}'     . \      ,'  .          '${AnsiColor.BLACK} |${AnsiColor.MAGENTA}     :   `...'
+       ,'  ${AnsiColor.WHITE}\       `.   .             ,'${AnsiColor.BLACK}  |${AnsiColor.MAGENTA}     '  __
+      .    ${AnsiColor.BLACK}`${AnsiColor.WHITE}.       |    \          .' ${AnsiColor.BLACK}   '${AnsiColor.MAGENTA}    .  (  `.
+    .'      ${AnsiColor.BLACK}\${AnsiColor.WHITE}`.___,'      `-.____.-'   ${AnsiColor.BLACK}  '${AnsiColor.MAGENTA}     :   `-.'
+     .   ,".${AnsiColor.BLACK} \${AnsiColor.WHITE} ..___              _     ${AnsiColor.BLACK}/${AnsiColor.MAGENTA}      :    .
+     :   . :  ${AnsiColor.BLACK}\${AnsiColor.WHITE}|/\  `"'--------+"|,'  ${AnsiColor.BLACK},'${AnsiColor.MAGENTA}       `-..' :
+      `-" .'   ${AnsiColor.BLACK}`:${AnsiColor.WHITE} `"-.._______,.\|  ${AnsiColor.BLACK}.'${AnsiColor.MAGENTA}               '
+          `--. _ ${AnsiColor.BLACK}`._             _,'${AnsiColor.MAGENTA}        ,""-.__,'
+              " :   ${AnsiColor.BLACK}`"--.....--"'${AnsiColor.MAGENTA}     __   .
+              ,-'                 ,.-"  `-'
+             :   ,..             .    ,"".
+            .'   .  :   __..._   `"-. :   :
+            `.._  : ' ,'      `"--..' `--"
+                `-' `" ${AnsiColor.BLACK}mh
